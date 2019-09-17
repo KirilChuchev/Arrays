@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\bin\Debug\netcoreapp2.1\2. Common Elements.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\bin\Debug\netcoreapp2.1\2. Common Elements.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\bin\Debug\netcoreapp2.1\2. Common Elements.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\bin\Debug\netcoreapp2.1\2. Common Elements.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\bin\Debug\netcoreapp2.1\2. Common Elements.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\obj\Debug\netcoreapp2.1\2. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\obj\Debug\netcoreapp2.1\2. Common Elements.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\obj\Debug\netcoreapp2.1\2. Common Elements.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\obj\Debug\netcoreapp2.1\2. Common Elements.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\2. Common Elements\obj\Debug\netcoreapp2.1\2. Common Elements.pdb

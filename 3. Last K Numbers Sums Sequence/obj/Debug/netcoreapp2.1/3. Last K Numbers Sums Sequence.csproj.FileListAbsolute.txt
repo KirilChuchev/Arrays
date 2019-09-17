@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\bin\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\3. Last K Numbers Sums Sequence\obj\Debug\netcoreapp2.1\3. Last K Numbers Sums Sequence.pdb
