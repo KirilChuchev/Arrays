@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\bin\Debug\netcoreapp2.1\6. Equal Sums.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\bin\Debug\netcoreapp2.1\6. Equal Sums.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\bin\Debug\netcoreapp2.1\6. Equal Sums.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\bin\Debug\netcoreapp2.1\6. Equal Sums.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\bin\Debug\netcoreapp2.1\6. Equal Sums.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\obj\Debug\netcoreapp2.1\6. Equal Sums.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\obj\Debug\netcoreapp2.1\6. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\obj\Debug\netcoreapp2.1\6. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\obj\Debug\netcoreapp2.1\6. Equal Sums.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\obj\Debug\netcoreapp2.1\6. Equal Sums.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\6. Equal Sums\obj\Debug\netcoreapp2.1\6. Equal Sums.pdb
