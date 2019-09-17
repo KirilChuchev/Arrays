@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\bin\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\bin\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\bin\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\bin\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\bin\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\obj\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\obj\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\obj\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\obj\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\obj\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\07.MaxSequenceEqualElements\obj\Debug\netcoreapp2.1\7.MaxSequenceEqualElements.pdb

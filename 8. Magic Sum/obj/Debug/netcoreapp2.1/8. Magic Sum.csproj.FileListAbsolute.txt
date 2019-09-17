@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\bin\Debug\netcoreapp2.1\8. Magic Sum.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\bin\Debug\netcoreapp2.1\8. Magic Sum.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\bin\Debug\netcoreapp2.1\8. Magic Sum.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\bin\Debug\netcoreapp2.1\8. Magic Sum.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\bin\Debug\netcoreapp2.1\8. Magic Sum.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\obj\Debug\netcoreapp2.1\8. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\obj\Debug\netcoreapp2.1\8. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\obj\Debug\netcoreapp2.1\8. Magic Sum.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\obj\Debug\netcoreapp2.1\8. Magic Sum.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\8. Magic Sum\obj\Debug\netcoreapp2.1\8. Magic Sum.pdb
