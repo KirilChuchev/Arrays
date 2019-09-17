@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\bin\Debug\netcoreapp2.1\9. Kamino Factory - 2.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\bin\Debug\netcoreapp2.1\9. Kamino Factory - 2.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\bin\Debug\netcoreapp2.1\9. Kamino Factory - 2.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\bin\Debug\netcoreapp2.1\9. Kamino Factory - 2.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\bin\Debug\netcoreapp2.1\9. Kamino Factory - 2.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\obj\Debug\netcoreapp2.1\9. Kamino Factory - 2.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\obj\Debug\netcoreapp2.1\9. Kamino Factory - 2.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\obj\Debug\netcoreapp2.1\9. Kamino Factory - 2.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\obj\Debug\netcoreapp2.1\9. Kamino Factory - 2.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\obj\Debug\netcoreapp2.1\9. Kamino Factory - 2.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\31.05.2019\Arrays (31.05.2019)\9. Kamino Factory - 2\obj\Debug\netcoreapp2.1\9. Kamino Factory - 2.csprojAssemblyReference.cache
